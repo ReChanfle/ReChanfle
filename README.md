@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there ⚡
+
+My name is Sebastian, i'm a developer and currently studying an intensive course (Full stack) on Henry. My's strongs are React, JS,HTML Node.js but i have habilities on other tecnologies like como PHP CSS and C#, my objective is offer my services and dedication to an organization or company.
+
+
 
 <!--
 **ReChanfle/ReChanfle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
