@@ -4,6 +4,7 @@ My name is Sebastian, i'm a developer and currently studying an intensive course
 
 You can reach me:
 --> https://www.linkedin.com/in/sebascabeza/
+
 --> sebascabeza1991@gmail.com
 
 
