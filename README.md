@@ -1,6 +1,6 @@
 ### Hi there ⚡
 
-My name is Sebastian, i'm a developer and currently studying an intensive course (Full stack) on Henry. My's strongs are React, JS, HTML and Node.js but i have habilities on other technologies like  PHP CSS and C#, my objective is offer my services and dedication to organization or company.
+My name is Sebastian, i'm a developer. My's strongs are React, PHP, JS, TS but i have habilities on other technologies like C#, my objective is offer my services and dedication to organization or company.
 
 You can reach me:
 
