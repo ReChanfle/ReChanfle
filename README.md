@@ -1,7 +1,6 @@
 ### Hi there ⚡
 
-My name is Sebastian. My's strongs are React, PHP, JS, TS but i have habilities on other technologies like C#, my objective is offer my services and dedication to organization or company.
-
+My name is Sebastian.
 You can reach me:
 
 --> https://www.linkedin.com/in/sebascabeza/
